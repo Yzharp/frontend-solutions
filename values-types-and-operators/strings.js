@@ -11,4 +11,3 @@ exports.hello = function (name) {
   }
 }
 
-Name=Yzhar
