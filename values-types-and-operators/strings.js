@@ -5,8 +5,10 @@
 
 exports.hello = function (name) {
   if (!name) { // if no name
-    return "Yzhar";
-  } else {
     return "World";
+  } else {
+    return "Yzhar";
   }
 }
+
+Name=Yzhar
