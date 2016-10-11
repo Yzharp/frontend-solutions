@@ -5,9 +5,9 @@
 
 exports.hello = function (name) {
   if (!name) { // if no name
-    return "Hello "+"Yzhar"+"!"
+    return "Hello, "+"Yzhar"+"!"
   } else {
-    return "Hello "+"World"+"!"
+    return "Hello, "+"World"+"!"
   }
 }
 
