@@ -5,7 +5,7 @@
 
 exports.hello = function (name) {
   if (!name) { // if no name
-    return "Hello, name"
+    return "Hello, name!"
   } else {
     return "Hello, World!"
   }
