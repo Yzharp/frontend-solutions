@@ -5,9 +5,9 @@
 
 exports.hello = function (name) {
   if (!name) { // if no name
-    return "Hello,_World!"
+    return "Hello,_World!";
   } else {
-    return "Hello,_name!"
+    return "Hello,_name!";
   }
 }
 
