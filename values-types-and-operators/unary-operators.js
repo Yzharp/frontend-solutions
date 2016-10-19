@@ -4,5 +4,5 @@
  */
 
 exports.typeOf = function (value) {
-  return 'Type of ' + value + ' is ' + symbol
+  return 'Type of ' + value + ' is ' + primitive
 }
